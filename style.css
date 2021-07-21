@@ -1,0 +1,21 @@
+div {
+    color: white;
+    background-color: rgb(21, 134, 209);
+    border-style: solid;
+    border-color: darkblue;
+    border-width: 10px;
+    font-family: "Trebuchet MS";
+    padding: .5in;
+    margin: 1in;
+    border-radius: 40px;
+    background-image: url("images/ppf.jpg");
+} 
+body {
+    background-image: url("images/background.jpg");
+}
+img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 2cm;
+    }
